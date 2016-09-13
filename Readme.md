@@ -1,7 +1,7 @@
 ﻿# Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Александр Плохов](https://up.htmlacademy.ru/adaptive/8/user/96006).
-* Наставник: `Гоша Егорян`.
+* Наставник: `Гоша Егорян`(https://vk.com/id174911487).
 
 ---
 
